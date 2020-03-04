@@ -30,11 +30,18 @@ body {
 	font-family: Verdana;
 }
 
+
 .container {
 	width: 700px;
 	margin-left: auto;
 	margin-right: auto;
 	height: 700px;
+	padding-top: 40px;
+	box-shadow:		  0px 0px 50px #EECCD3;
+	width:            750px;
+	height:			  auto;
+	background-color: rgba(255, 253, 241, 0.4);
+}
 }
 
 .active {
