@@ -1,0 +1,58 @@
+/*font-family: 'Open Sans';*/
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+li a:hover {
+  background-color: #111;
+}
+
+body {
+	background-image:  url(SkyIntro.png);
+	font-family: Verdana;
+}
+
+.container {
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 700px;
+}
+
+.active {
+	background-color: #E0E3E6;
+}
+
+.content {
+	width: 660px;
+	padding: 20px;
+}
+
+p {	
+	line-height: 1.5em;
+	font-size: 14pt;
+}
+
+img {
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 5px;
+}
